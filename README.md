@@ -25,4 +25,8 @@ Modify the Binomialdistribution.py code until all the unit tests are passing.
 
 Note that if you change the code in the distributions folder after pip installing the package, Python will not know about the changes. You'll need to run `pip install --upgrade .` when you make changes to the package files.
 
+![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-BINOMIAL-CLASS/master/Sin%20t%C3%ADtulo.jpg)
+
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
+
 
